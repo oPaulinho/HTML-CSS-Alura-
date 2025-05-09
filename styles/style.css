@@ -28,9 +28,10 @@ header a:hover{
     text-decoration: none;
 
 } */
-.cabecalho{
+.cabecalho {
     padding: 2% 0% 0% 15%;
 }
+
 .cabecalho__menu {
     display: flex;
     gap: 80px;
@@ -101,12 +102,12 @@ button {
 .apresentacao__links {
     display: flex;
     flex-direction: column;
-    justify-content: space-between; 
+    justify-content: space-between;
     align-items: center;
     gap: 32px;
 }
 
-.apresentacao__links__subtitulo{
+.apresentacao__links__subtitulo {
     font-family: 'krona One', sans-serif;
     font-weight: 400;
     font-size: 24px;
@@ -131,16 +132,39 @@ button {
 
 }
 
-.apresentacao__links__link:hover{
+.apresentacao__links__link:hover {
 
     padding: 3%;
     background-color: #272727;
+}
+
+.certificado__link {
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    color: #F6F6F6;
+}
+
+.redes__link:hover {
+    color: #22D4FD;
+}
+
+.redes__link {
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    color: #F6F6F6;
+}
+
+.certificado__link:hover {
+    color: #22D4FD;
 }
 
 .foto {
     border-radius: 16px;
     height: 550px;
 }
+
 .rodape {
     padding: 24px;
     color: #000000;
@@ -151,9 +175,14 @@ button {
     font-weight: 400;
 }
 
+li {
 
- /* Dica do chatgpt, ainda não estudei isso */
-/* 
+    padding: 1%;
+
+}
+
+/* Dica do chatgpt, ainda não estudei isso */
+/*
 @media (max-width: 768px) {
     .apresentacao {
         flex-direction: column;
