@@ -1,84 +1,32 @@
-# 👨🏻‍💻 Genilson Silva
+# 💻 Projeto HTML e CSS - Alura
 
-**`Desenvolvedor `**
+Este projeto foi desenvolvido durante meus estudos na plataforma [Alura](https://www.alura.com.br/), com foco em prática de **HTML5** e **CSS3** para construção de páginas web.
 
-Me chamo Genilson Paulo da Silva, tenho 24 anos e sou natural do São Paulo. Sou formado em Admintração, pela Univerisade de Santo Amaro - Unisa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia. 
-
-<p align="left">
-    <a href="https://github.com/oPaulinho?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/oPaulinho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/oPaulinho?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/oPaulinho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+### 🔗 Acesse o projeto online:
+➡️ https://html-css-alura-rosy.vercel.app/
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📘 Tecnologias usadas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+- HTML5
+- CSS3
+- Flexbox
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🎯 Objetivo
 
-### 📊 Estatísticas
+Praticar:
+- Estruturação de páginas com HTML
+- Estilização com CSS
+- Layout com Flexbox
+- Responsividade
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=oPaulinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oPaulinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 👨‍💻 Sobre mim
 
-</p>
+Me chamo **Genilson Paulo da Silva** e estou em transição para a área de TI. Atualmente estudo Front-End na Alura e curso Análise e Desenvolvimento de Sistemas.
+
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/genilson-paulo-silva)
