@@ -1,3 +1,4 @@
+
 # 💻 Projeto HTML e CSS - Alura
 
 Este projeto foi desenvolvido durante meus estudos na plataforma [Alura](https://www.alura.com.br/), com foco em prática de **HTML5** e **CSS3** para construção de páginas web.
